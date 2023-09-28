@@ -30,7 +30,7 @@ krishna
 moses
 sy
 sy
-yod
+[x]yod
 dileep
 cary
 carter
